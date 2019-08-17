@@ -17,3 +17,5 @@ redneck-games *****not to be mistaken for reindeer games or the Olympic Games
 
 Redneck-Games Team(uno)
 
+Please note this first commit to Master still has a few bugs after last minute changes. (first commit and I"m pretty stoked)
+I have a master branch !
